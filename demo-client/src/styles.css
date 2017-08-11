@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+/* Colors for icons */
+ .green {
+ 	color: #5CB85C;
+ }
+ 
+ .yellow {
+ 	color: #f1c40f;
+ }
+ 
+.blue {
+ 	color: #3498db;
+ }
+ 
+ .darkblue {
+ 	color: #34495e;
+ }
+ .grey {
+ 	color:  #7f8c8d;
+ }
+ 
+.orange {
+ 	color: #f39c12;
+}
+ 
+.red {
+ 	color: #e74c3c;
+}
+.greybg{
+	background-color: #eeeeee;
+}	
+
