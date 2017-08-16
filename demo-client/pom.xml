@@ -60,7 +60,7 @@
 					</execution>
 				</executions>
 			</plugin>
- 			<!-- <plugin>
+ 			<plugin>
 				<groupId>com.github.eirslett</groupId>
 				<artifactId>frontend-maven-plugin</artifactId>
 				<version>${maven.frontend.version}</version>
@@ -86,7 +86,7 @@
 						<phase>generate-resources</phase>
 					</execution>
 				</executions>
-			</plugin> -->
+			</plugin>
 		</plugins>
 		<pluginManagement>
 			<plugins>
